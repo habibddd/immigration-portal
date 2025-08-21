@@ -1,2 +1,6 @@
-# immigration-portal
-Designing Italy’s first immigration portal to simplify processes, enhance accessibility, and prioritize user empathy.
+## GAIA (temporary)
+This project is designed to make entering and staying in Italy simpler, clearer, and more accessible. Current procedures are outdated: they demand repetitive in-person visits, offer no clear timelines, communicate poorly, and add unnecessary steps — a system built without empathy for the people who rely on it. The new portal aims to remove these barriers by providing a digital experience that is user-centered, inclusive, and transparent, so immigrants can navigate bureaucracy with confidence instead of frustration.
+### Problem
+Immigrants navigating Italy’s entry and residency procedures face an outdated, opaque system. The current process is fragmented, requires multiple in-person visits, offers no clear communication, and creates uncertainty in both timelines and outcomes. This lack of accessibility and empathy results in unnecessary stress and barriers to integration.
+### Solution
+The redesigned immigration portal centralizes essential processes, reduces redundancy, and provides clear, accessible guidance. By introducing digital tools for applications, status tracking, and multilingual support, the platform simplifies complex procedures, minimizes unnecessary in-person interactions, and restores a sense of clarity, efficiency, and dignity to the immigrant experience.
